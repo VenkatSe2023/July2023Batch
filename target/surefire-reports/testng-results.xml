@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23452" started-at="2023-10-04T08:06:24 IST" finished-at="2023-10-04T08:06:47 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23452" started-at="2023-10-04T08:06:24 IST" finished-at="2023-10-04T08:06:47 IST">
+      <class name="tests.LoginTestWithPF">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.LoginTestWithPF@2173f6d9]" name="setUp" is-config="true" duration-ms="18802" started-at="2023-10-04T08:06:24 IST" finished-at="2023-10-04T08:06:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLogo()[pri:1, instance:tests.LoginTestWithPF@2173f6d9]" name="testLogo" duration-ms="1153" started-at="2023-10-04T08:06:42 IST" finished-at="2023-10-04T08:06:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogo -->
+        <test-method status="PASS" signature="testLogin()[pri:2, instance:tests.LoginTestWithPF@2173f6d9]" name="testLogin" duration-ms="2512" started-at="2023-10-04T08:06:44 IST" finished-at="2023-10-04T08:06:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testDown()[pri:0, instance:tests.LoginTestWithPF@2173f6d9]" name="testDown" is-config="true" duration-ms="891" started-at="2023-10-04T08:06:46 IST" finished-at="2023-10-04T08:06:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDown -->
+      </class> <!-- tests.LoginTestWithPF -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,4 @@
+pages\LoginPageWithPageFactory.class
+tests\LoginTest.class
+tests\LoginTestWithPF.class
+pages\LoginPage.class
